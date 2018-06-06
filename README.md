@@ -7,5 +7,4 @@ In this notebook, I implemented the Naïve Bayes Classifier and the Bayesian Lin
 Since a CNN is capable of modeling spatial patterns through the hierarchical analysis of patches of images, it was interesting to apply Naïve Bayes classification to the output of convolutional layer in the LeNet architecture to see the improvement of the accuracy. 
 <br>
 ### Preview html file:
-<br>
 http://htmlpreview.github.io/?https://github.com/rmissaoui/Advanced_Statistical_Inference/blob/master/ASI-ae.html
